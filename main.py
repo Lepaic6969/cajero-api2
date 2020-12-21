@@ -16,7 +16,7 @@ api=FastAPI()
 #Aquí viene el código para comunicar el Backend con el Frontend
 
 
-#############################################
+############################################
 
 from fastapi.middleware.cors import CORSMiddleware
 origins = [
